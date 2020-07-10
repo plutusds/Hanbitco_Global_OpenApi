@@ -1,7 +1,7 @@
-# Api Endpoints for BlueHelix Broker
+# Api Endpoints for Hanbitco Global
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.bhex.com](https://api.bhex.com)**
-web-socket-streams | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
-user-data-stream | **[wss://wsapi.bhex.com](wss://wsapi.bhex.com)**
+rest-api | **[https://api.hanbitco.global](https://api.hanbitco.global)**
+web-socket-streams | **[wss://wsapi.hanbitco.global](wss://wsapi.hanbitco.global)**
+user-data-stream | **[wss://wsapi.hanbitco.global](wss://wsapi.hanbitco.global)**

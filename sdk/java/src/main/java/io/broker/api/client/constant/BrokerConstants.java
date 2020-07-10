@@ -4,7 +4,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 
 public class BrokerConstants {
 
-    public static final long DEFAULT_RECEIVING_WINDOW = 5_000L;
+    public static final long DEFAULT_RECEIVING_WINDOW = 10_000L;
 
     public static final String API_KEY_HEADER = "X-BH-APIKEY";
 
